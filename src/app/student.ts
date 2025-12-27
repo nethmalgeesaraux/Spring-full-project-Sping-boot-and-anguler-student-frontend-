@@ -1,7 +1,7 @@
 export class Student {
-    // id: number;
-    // firstName : string;
-    // lastName: string;
-    // age: number;
+    id: number = 0;
+    firstName: string = '';
+    lastName: string = '';
+    age: number = 0;
 
 }
